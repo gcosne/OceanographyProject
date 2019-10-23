@@ -1,6 +1,6 @@
 # SYNERGY BETWEEN OCEANIC OBSERVATION SYSTEMS IN TURBULENT NORTH ATLANTIC REGIONS
 
-The paper related to the code implemented can be found here : [paper](https://drive.google.com/open?id=1aeP1qdn5Qe0qL14B-gfT8V0ily8yPX6N).
+The paper related to the code implemented can be found here : [arxiv](https://arxiv.org/abs/1910.08573).
 
 
 **Abstract** : Today satellites provide a surface signature of the temperature with a high spatial frequency but a low vertical
