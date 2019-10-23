@@ -1,4 +1,4 @@
-# SYNERGY BETWEEN OCEANIC OBSERVATION SYSTEMS IN TURBULENT NORTH ATLANTIC REGIONS
+# Coupling Oceanic Observation Systems to Study Mesoscale Ocean Dynamics
 
 The paper related to the code implemented can be found here : [arxiv](https://arxiv.org/abs/1910.08573).
 
